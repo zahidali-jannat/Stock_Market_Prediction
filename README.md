@@ -1,0 +1,2 @@
+# Stock_Market_Prediction
+USING LSTM MODEL I CREATED PREDICTION MODEL
